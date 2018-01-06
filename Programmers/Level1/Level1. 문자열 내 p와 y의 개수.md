@@ -14,7 +14,7 @@
 function numPY(s){
 var answer;
 var sLower=s.toLowerCase();
-var yArr=[];
+var yArr=[];Level1. 문자열 내 p와 y의 개수
 var pArr=[];
 for(let item of sLower){
   item==='p'? pArr.push(item):item==='y'?yArr.push(item):answer=false;
@@ -54,5 +54,5 @@ console.log( numPY("Pyy") )
 
 ```split```메소드의 기능은 인자로 들어간 값을 기준으로 문자를 쪼개 배열로 저장하는 것이다. 결국 인자로 받는 값의 개수에 따라 쪼개지는 베열의 요소 개수도 일정하다는 사실을 활용했다. 이는 문제에서 s와 p가 없을 때 ```true```를 반환하라는 조건에도 충족될 수 있다. 해당 문자가 없으면 하나의 값이 들어간 배열로 변환이 될 것이고 결국 길이는 같을 것이기 때문이다.
 
-정말 RESPEC합니다!
+정말 RESPECT합니다!
 
