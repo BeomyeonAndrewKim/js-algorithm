@@ -14,3 +14,4 @@
 7. [평균 구하기](https://github.com/BeomyeonAndrewKim/js-dailyalgorithm/blob/master/Programmers/Level1/Level1.%20%ED%8F%89%EA%B7%A0%20%EA%B5%AC%ED%95%98%EA%B8%B0.md)
 8. [핸드폰번호 가리기](https://github.com/BeomyeonAndrewKim/js-dailyalgorithm/blob/master/Programmers/Level1/Level1.%20%ED%95%B8%EB%93%9C%ED%8F%B0%EB%B2%88%ED%98%B8%20%EA%B0%80%EB%A6%AC%EA%B8%B0.md)
 9. [행렬의 덧셈](https://github.com/BeomyeonAndrewKim/js-dailyalgorithm/blob/master/Programmers/Level1/Level1.%20%ED%96%89%EB%A0%AC%EC%9D%98%20%EB%8D%A7%EC%85%88.md)
+10. [스트링을 숫자로 바꾸기](https://github.com/BeomyeonAndrewKim/js-dailyalgorithm/blob/master/Programmers/Level1/Level1.%20%EC%8A%A4%ED%8A%B8%EB%A7%81%EC%9D%84%20%EC%88%AB%EC%9E%90%EB%A1%9C%20%EB%B0%94%EA%BE%B8%EA%B8%B0.md)
