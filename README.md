@@ -18,3 +18,4 @@
 11. [서울에서 김서방 찾기(index 활용하기)](https://github.com/BeomyeonAndrewKim/js-dailyalgorithm/blob/master/Programmers/Level1/Level1.%20%EC%84%9C%EC%9A%B8%EC%97%90%EC%84%9C%20%EA%B9%80%EC%84%9C%EB%B0%A9%20%EC%B0%BE%EA%B8%B0(index%20%ED%99%9C%EC%9A%A9%ED%95%98%EA%B8%B0).md)
 12. [삼각형 출력하기](https://github.com/BeomyeonAndrewKim/js-dailyalgorithm/blob/master/Programmers/Level1/Level1.%20%EC%82%BC%EA%B0%81%ED%98%95%20%EC%B6%9C%EB%A0%A5%ED%95%98%EA%B8%B0.md)
 13. [역삼각형 출력하기](https://github.com/BeomyeonAndrewKim/js-dailyalgorithm/blob/master/Programmers/Level1/Level1.%20%EC%97%AD%EC%82%BC%EA%B0%81%ED%98%95%20%EC%B6%9C%EB%A0%A5%ED%95%98%EA%B8%B0.md)
+14. [피보나치 수](https://github.com/BeomyeonAndrewKim/js-dailyalgorithm/blob/master/Programmers/Level1/Level1.%20%ED%94%BC%EB%B3%B4%EB%82%98%EC%B9%98%20%EC%88%98.md)
