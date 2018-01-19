@@ -24,3 +24,4 @@
 
 1. [두 정수 사이의 합](https://github.com/BeomyeonAndrewKim/js-dailyalgorithm/blob/master/Programmers/Level2/Level2.%20%EB%91%90%20%EC%A0%95%EC%88%98%20%EC%82%AC%EC%9D%B4%EC%9D%98%20%ED%95%A9.md)
 2. [최솟값 만들기](https://github.com/BeomyeonAndrewKim/js-dailyalgorithm/blob/master/Programmers/Level2/Level2.%20%EC%B5%9C%EC%86%9F%EA%B0%92%20%EB%A7%8C%EB%93%A4%EA%B8%B0.md)
+3. [소수 찾기](https://github.com/BeomyeonAndrewKim/js-dailyalgorithm/blob/master/Programmers/Level2/Level2.%20%EC%B5%9C%EC%86%9F%EA%B0%92%20%EB%A7%8C%EB%93%A4%EA%B8%B0.md)
