@@ -28,3 +28,4 @@
 4. [이상한 문자만들기](https://github.com/BeomyeonAndrewKim/js-dailyalgorithm/blob/master/Programmers/Level2/Level2.%20%EC%9D%B4%EC%83%81%ED%95%9C%20%EB%AC%B8%EC%9E%90%EB%A7%8C%EB%93%A4%EA%B8%B0.md)
 5. [콜라츠 추측](https://github.com/BeomyeonAndrewKim/js-dailyalgorithm/blob/master/Programmers/Level2/Level2.%20%EC%BD%9C%EB%9D%BC%EC%B8%A0%20%EC%B6%94%EC%B8%A1.md)
 6. [하샤드 수](https://github.com/BeomyeonAndrewKim/js-dailyalgorithm/blob/master/Programmers/Level2/Level2.%20%ED%95%98%EC%83%A4%EB%93%9C%EC%88%98.md)
+7. [가장 긴 팰린드롬](https://github.com/BeomyeonAndrewKim/js-dailyalgorithm/blob/master/Programmers/Level2/Level2.%20%EA%B0%80%EC%9E%A5%20%EA%B8%B4%20%ED%8C%B0%EB%A6%B0%EB%93%9C%EB%A1%AC.md)
