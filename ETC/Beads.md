@@ -26,13 +26,10 @@ function solution(A) {
   });
 
   function makeBeads(beads, arr, el, beadsCount) {
-    if (beads[0] === arr[el]) {
-      beads.push(el);
-      beadsCount.push(beads.length);
-    } else {
-      beads.push(el);
-      makeBeads(beads, arr, arr[el], beadsCount);
-    }
+    beads.push(el);
+    beads[0] === arr[el]
+      ? beadsCount.push(beads.length)
+      : makeBeads(beads, arr, arr[el], beadsCount);
   }
   return Math.max(...beadsCount);
 }
