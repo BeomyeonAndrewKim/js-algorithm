@@ -20,6 +20,8 @@
 12. [삼각형 출력하기](https://github.com/BeomyeonAndrewKim/js-dailyalgorithm/blob/master/Programmers/Level1/Level1.%20%EC%82%BC%EA%B0%81%ED%98%95%20%EC%B6%9C%EB%A0%A5%ED%95%98%EA%B8%B0.md)
 13. [역삼각형 출력하기](https://github.com/BeomyeonAndrewKim/js-dailyalgorithm/blob/master/Programmers/Level1/Level1.%20%EC%97%AD%EC%82%BC%EA%B0%81%ED%98%95%20%EC%B6%9C%EB%A0%A5%ED%95%98%EA%B8%B0.md)
 14. [피보나치 수](https://github.com/BeomyeonAndrewKim/js-dailyalgorithm/blob/master/Programmers/Level1/Level1.%20%ED%94%BC%EB%B3%B4%EB%82%98%EC%B9%98%20%EC%88%98.md)
+15. [폰켓몬](https://github.com/BeomyeonAndrewKim/js-algorithm/blob/master/Programmers/Level1/Level1.%20%ED%8F%B0%EC%BC%93%EB%AA%AC.md)
+16. [신고 결과 받기](https://github.com/BeomyeonAndrewKim/js-algorithm/blob/master/Programmers/Level1/Level1.%20%EC%8B%A0%EA%B3%A0%20%EA%B2%B0%EA%B3%BC%20%EB%B0%9B%EA%B8%B0.md)
 
 ### Level2
 
