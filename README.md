@@ -42,4 +42,4 @@
 
 ### Easy
 
-
+1. [Move zeros](https://github.com/BeomyeonAndrewKim/js-algorithm/blob/master/LeetCode/Easy/283.%20Move%20zeros.md)
