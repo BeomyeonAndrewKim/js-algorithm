@@ -36,3 +36,10 @@
 ## ETC
 
 1. [Beads](./ETC/Beads.md)
+
+
+## LeetCode
+
+### Easy
+
+
